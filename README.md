@@ -30,5 +30,30 @@
 <br>
 <br>
 
-## 실습 2
+
+## 실습 2 : 장르별 음악 생성
+
+### 프롬프트: “emotional Korean ballad mixed with lo-fi hip hop beat, soft piano, relaxing study mood, male vocal, warm vinyl crackle” (발라드 + 로파이)
+
+[남겨진 종이컵.mp3](https://github.com/user-attachments/files/27856012/default.mp3)
+
+---
+
+<br>
+<br>
+
+## 실습 3 : Custom Mode
+
+
+
+
+
+
+
+
+
+
+
+
+
 
